@@ -1,0 +1,7 @@
+# Instrucciones para descargar el archivo de RNA
+
+1. Ve al sitio web del PanCanAtlas: https://gdc.cancer.gov/about-data/publications/pancanatlas
+2. En la lista de archivos, busca el primero que se llama:
+   RNA (Final) - EBPlusPlusAdjustPANCAN_IlluminaHiSeq_RNASeqV2.geneExp.tsv
+3. Descarga el archivo a la carpeta actual `data` de tu proyecto.
+4. El archivo es muy grande, así que no se sube a GitHub.
